@@ -182,7 +182,6 @@ acs-*.bib
 
 # Visual Studio #
 #################
-.vscode/
 jsconfig.json
 
 # Sublime Text #
@@ -203,3 +202,4 @@ jsconfig.json
 CLAUDE.md
 GEMINI.md
 .claude/
+config.bat
